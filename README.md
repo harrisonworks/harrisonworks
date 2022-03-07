@@ -1,4 +1,4 @@
-## Here is where you can reach me 📫
+## More ways to reach me 📫
 
 
 - [Porfolio](https://harrison.works)
