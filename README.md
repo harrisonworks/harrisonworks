@@ -1,4 +1,9 @@
-### Hi there 👋
+## Here is where you can reach me 📫
+
+
+- [Porfolio](https://harrison.works)
+- [Email](harrisonadmcewen@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hmcewen/)
 
 <!--
 **harrisonworks/harrisonworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
