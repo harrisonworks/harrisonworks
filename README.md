@@ -1,7 +1,7 @@
 ## More ways to reach me 📫
 
 
-- [Porfolio](https://harrison.works)
+- [Portfolio](https://harrison.works)
 - [Email](harrisonadmcewen@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hmcewen/)
 
